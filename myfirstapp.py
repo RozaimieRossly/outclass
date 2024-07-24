@@ -44,6 +44,3 @@ if show:
         time.sleep(0.1)
 
     '...and now we\'re done!'
-        time.sleep(0.1)
-
-    '...and now we\'re done!'
